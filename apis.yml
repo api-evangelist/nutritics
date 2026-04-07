@@ -1,9 +1,8 @@
 aid: nutritics
 name: Nutritics
 description: >-
-  Easily integrate over one million foods, incorporating calorie, allergen and
-  nutrition data from official national, international and branded databases for
-  multiple regions. 
+  Easily integrate over one million foods, incorporating calorie, allergen and nutrition
+  data from official national, international and branded databases for multiple regions.
 type: Index
 position: Consumer
 access: 3rd-Party
@@ -19,9 +18,9 @@ apis:
   - aid: nutritics:nutritics
     name: Nutritics
     description: >-
-      Easily integrate over one million foods, incorporating calorie, allergen
-      and nutrition data from official national, international and branded
-      databases for multiple regions. 
+      Easily integrate over one million foods, incorporating calorie, allergen and
+      nutrition data from official national, international and branded databases for
+      multiple regions.
     humanURL: ' https://www.nutritics.com/en/product/api/'
     tags:
       - API
