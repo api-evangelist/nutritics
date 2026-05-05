@@ -1,0 +1,13 @@
+{
+  "repo": "nutritics",
+  "feeds": [
+    {
+      "source": "https://www.nutritics.com/en/blog/",
+      "feed_url": "https://www.nutritics.com/en/blog/feed/",
+      "saved": 10,
+      "title": "Blog - Nutritics"
+    }
+  ],
+  "post_count": 10,
+  "fetched": "2026-05-03T23:32:55Z"
+}
