@@ -38,7 +38,7 @@ apis:
         url: https://www.nutritics.com/en/product/api/
       - type: Integrations
         url: https://www.nutritics.com/en/integrations/
-      - type: Sign Up
+      - type: SignUp
         url: https://www.nutritics.com/en/contact/
 common:
   - type: Website
@@ -57,9 +57,9 @@ common:
     url: https://www.nutritics.com/en/blog/
   - type: Login
     url: https://www.nutritics.com/system2/login.php
-  - type: Terms of Service
+  - type: TermsOfService
     url: https://www.nutritics.com/en/terms-and-conditions/
-  - type: Privacy Policy
+  - type: PrivacyPolicy
     url: https://www.nutritics.com/en/privacy-policy/
 maintainers:
   - FN: Kin Lane
