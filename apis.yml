@@ -38,7 +38,7 @@ apis:
         url: https://www.nutritics.com/en/product/api/
       - type: Integrations
         url: https://www.nutritics.com/en/integrations/
-      - type: SignUp
+      - type: Signup
         url: https://www.nutritics.com/en/contact/
 common:
   - type: LinkedIn
