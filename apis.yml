@@ -41,6 +41,8 @@ apis:
       - type: Signup
         url: https://www.nutritics.com/en/contact/
 common:
+  - type: DomainSecurity
+    url: security/nutritics-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/nutritics
   - type: Website
